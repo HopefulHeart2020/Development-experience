@@ -44,7 +44,7 @@ const About = () => {
         I pride myself on my ability to adapt and excel in a variety of challenging environments,
         constantly pushing the boundaries of what's possible. Armed with a strong work ethic and a
         keen eye for detail, I am eager to continue my journey of growth and success in the world of
-        technology.
+        technology
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

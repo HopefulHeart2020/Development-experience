@@ -42,12 +42,12 @@ const Hero = () => {
                 className="sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova
                 font-extrabold uppercase">
-                Shaquille
+                Braydon
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Lorem ipsum dolor sit amet. <br className="sm:block hidden" />
-              consectetur adipisicing elit deleniti, voluptas.
+              The customer is very happy. <br className="sm:block hidden" />
+              will be followed by the adipisicing of the tender, pleasure.
             </p>
           </div>
           <div
