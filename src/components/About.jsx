@@ -37,12 +37,14 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        As a multi-faceted professional with 7 years of experience in the technology industry, I have
+        honed my skills as a senior full-stack developer, blockchain developer, technical leader and
+        DevOps engineer. My passion for innovation and commitment to excellence has allowed me to
+        lead teams, develop cutting-edge solutions, and optimize processes across various industries.
+        I pride myself on my ability to adapt and excel in a variety of challenging environments,
+        constantly pushing the boundaries of what's possible. Armed with a strong work ethic and a
+        keen eye for detail, I am eager to continue my journey of growth and success in the world of
+        technology.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
